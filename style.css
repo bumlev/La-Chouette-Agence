@@ -737,7 +737,6 @@ h4 {
 
 .white {
     color: white!important;
-    filter:contrast(4.5);
     font-size: 22px;
 
 }
@@ -756,7 +755,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #685336;
     padding: 40px 40px 40px 40px;
 }
 
