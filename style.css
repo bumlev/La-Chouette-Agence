@@ -709,6 +709,10 @@ h2 {
     line-height: 1.4em;
 }
 
+.brown{
+    color:#A52A2A!important;
+}
+
 h3 {
     font-size: 15px;
     text-transform: uppercase;
