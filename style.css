@@ -737,8 +737,7 @@ h4 {
 
 .white {
     color: white!important;
-    font-weight:normal;
-    font-size:22px;
+    filter:contrast(3.1);
 
 }
 
